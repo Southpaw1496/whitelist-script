@@ -1,7 +1,7 @@
 # whitelist-script
 This repository contains a python script that creates a `.mcfunction` file that will bulk-whitelist the inputted players when placed in a datapack and run with the `/function` command. It also includes an empty data pack in case you don't already have one.
 
-I am fully aware that one could construct this script in a matter of minutes and there are probably hundreds of others like it and it may indeed be completely useless for most people, but I built it for myself and am now sharing it with the world, because why the heck not. It's pretty simple to use but please DM me on Twitter (@Southpaw1496) or create a GitHub issue if you have any questions or concerns.
+I am fully aware that one could construct this script in a matter of minutes and there are probably hundreds of others like it and it may indeed be completely useless for most people, but I built it for myself and am now sharing it with the world, because why the heck not. It's pretty simple to use but please DM me on Twitter (@Southpaw1496) or create a GitHub issue if you have any questions or concerns. Also, don't point anything here and expect to leave it, the name will change as soon as I think of a better one.
 
 To use the script on Unix systems (macOS and Linux) open terminal and run `python3 path-to-file`, so for example if I saved the file in Downloads the command would be `python3 /Users/Southpaw1496/Downloads/whitelist-script.py`. I don't know how to use it on Windows. Simple instructions are included in the script, but if you need more detailed ones please see below.
 
